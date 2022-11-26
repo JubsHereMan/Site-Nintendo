@@ -1,0 +1,62 @@
+body{
+    overflow-x: hidden;
+    font-family: 'Rubik', sans-serif;
+}
+
+
+header {
+    background-color: #e4000f;
+    padding: 20px 0;
+}
+
+.banner {
+    position:relative ;
+    width: 200px;
+    right: -350px;
+    margin: 0 auto;
+}
+
+
+
+
+
+
+
+footer {
+    position: relative;
+    top: 620px;
+    text-align: center;
+    padding: 40px 0 ;
+    background:url("../background.png");
+}
+
+.banner-footer{
+    position:relative ;
+    width: 200px;
+    right: 40px;
+    margin: 0 auto;
+}
+.Copyright {
+    position: relative;
+    right: -34px;
+    color: white;
+    font-size: 13px;
+    margin: 20px;
+}
+
+
+.redesSociais{
+    position: relative;
+    top: 1px;
+    right: -581px;
+    margin-left: 30px;
+    width: 2%;
+}
+
+.redesSociais1{
+    position: relative;
+    top: 5px;
+    right: -581px;
+    margin-left: 30px;
+    width: 4%;
+}
